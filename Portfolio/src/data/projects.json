@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Kanban Board",
+      "imageSrc": "projects/projectA.png",
+      "description": "Kanban Board is a visual tool that gives an overview of the tasks and activities, it helps sort and group the tasks according to priority or user. ",
+      "skills": ["API", "React","Javascript"],
+      "demo": "https://purva5598.github.io/tempRepo/",
+      "source": "https://github.com/purva5598/KanbanBoard"
+    },
+    {
+      "title": "Post It !",
+      "imageSrc": "projects/projectB.png",
+      "description": "This project allows user to create and read posts. It uses mongoDB to store data in database. User can delete as well edit the post apart from creation.",
+      "skills": ["React", "Express", "Node", "Databases"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/purva5598/CRUD-operation-mern-app"
+    },
+    {
+      "title": "Flight Booking System",
+      "imageSrc": "projects/projectC.png",
+      "description": "Via this project user can book the available flights and get the data of the recent bookings along with the details of the user and date-time of booking.",
+      "skills": ["C++", "React", "OOP","API"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/purva5598/FlightBookingSystem"
+    }
+  ]

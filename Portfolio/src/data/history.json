@@ -1,0 +1,22 @@
+[
+    {
+      "role": "Software Developer Engineer",
+      "organisation": "Amazon",
+      "startDate": "May, 2024",
+      "endDate": "July, 2024",
+      "experiences": ["Worked on a project of details update via file ingestion.", "Added a new field via a toggle button along with new functionalities in the backend that come with that new field insertion in the system."],
+      "imageSrc": "history/amazonLogo.png",
+      "projectDetails":["AWS Resource Setup and Batch Update Feature: Implemented batch updates using AWS services such as S3, SQS, and Lambda, enabling data ingestion via Excel files and automating the setup process. This reduced deployment time by 30% and improved operational efficiency by more than 50%.","Client Package Development and Enhanced Tool Functionality: Designed a client package for internal API calls among different services, increasing system modularity and scalability by 40%. Integrated a new classification field into 5+ functionalities in an existing tool (React, TypeScript, Kotlin), enhancing data categorization and user experience.","Unit Testing: Wrote comprehensive unit tests for all functionalities, achieving 95% code coverage and ensuring system robustness and reliability"],
+      "myImg":"hero/myImg.jpg"
+    },
+    {
+      "role": "AI Training Coding Expert",
+      "organisation": "Outlier",
+      "startDate": "Oct, 2024",
+      "endDate": "Present",
+      "experiences": ["Specialized in prompt writing and evaluating AI-generated responses.", "Assessing whether AI provides correct responses to specific prompts, contributing to improved AI performance and user experience."],
+      "imageSrc": "history/outlierLogo.png",
+      "myImg":"hero/myImgLaptop.png",
+      "projectDetails":["Reviewed and evaluated AI-generated code in multiple programming languages, including C++, Python, and JavaScript, ensuring high accuracy and relevance to diverse problem statements.", "Specialized in prompt writing and analysis to improve AI responses, refining instructions to enhance AI model understanding and accuracy.", "Contributed to AI model training by identifying strengths and areas for improvement, leading to more accurate and reliable code generation.", "Assessed model-generated solutions for correctness and efficiency, aiding in developing AI that consistently produces quality code.", "Collaborated with cross-functional teams to ensure alignment in model behavior, user experience, and code performance metrics."]
+    }
+  ]
