@@ -12,21 +12,33 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <img className={styles.contactIcon} src={getImageUrl("contact/mail.png")} alt="Email icon" />
+          <img
+            className={styles.contactIcon}
+            src={getImageUrl("contact/mail.png")}
+            alt="Email icon"
+          />
           <a href="mailto:sharmapurva5598@gmail.com">sharmapurva5598@gmail.com</a>
         </li>
         <li className={styles.link}>
-          <img className="contact-icon"
+          <img
+            className="contact-icon"
             src={getImageUrl("contact/linkedin.png")}
             alt="LinkedIn icon"
           />
           <a href="https://www.linkedin.com/in/purva-sharma-587b4a236/">linkedin.com/purva-sharma</a>
         </li>
         <li className={styles.link}>
-          <img className="contact-icon" src={getImageUrl("contact/github.png")} alt="Github icon" />
+          <img
+            className="contact-icon"
+            src={getImageUrl("contact/github.png")}
+            alt="Github icon"
+          />
           <a href="https://www.github.com/purva5598">github.com/purva5598</a>
         </li>
       </ul>
+      <div className={styles.copyright}>
+        <p>&copy; Purva Sharma<br></br> All rights reserved.</p>
+      </div>
     </footer>
   );
 };

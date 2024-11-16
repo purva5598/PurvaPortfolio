@@ -13,7 +13,7 @@
 
 .title{
     color: var(--color-text);
-    font-size: 35px;
+    font-size: px;
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
@@ -55,12 +55,12 @@
 }
 
 .aboutItem h3{
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 600;
 }
 
 .aboutItem p{
-    font-size: 25px;
+    font-size: 22px;
 }
 .aboutItem img{
     width: 10%;

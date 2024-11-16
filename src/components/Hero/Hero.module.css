@@ -30,7 +30,7 @@
 }
 
 .description{
-    font-size: 25px;
+    font-size: 22px;
     margin-right: 100px;
     font-family: var(--font-roboto);
     margin-bottom: 52px;
@@ -105,6 +105,10 @@
     .heroImg{
         margin-bottom: 10%;
         margin-top: -20%;
+    }
+    .description{
+        margin-right: 0px;
+        /* align-content:; */
     }
     
 }
