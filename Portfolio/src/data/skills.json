@@ -22,5 +22,54 @@
     {
       "title": "Figma",
       "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "skills/AWS-Dark.svg"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skills/Bootstrap.svg"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/C.svg"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/CPP.svg"
+    },
+    {
+      "title": "ExpressJS",
+      "imageSrc": "skills/ExpressJS-Dark.svg"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/JavaScript.svg"
+    },
+    {
+      "title": "JQuery",
+      "imageSrc": "skills/JQuery.svg"
+    },
+    {
+      "title": "Kotlin",
+      "imageSrc": "skills/Kotlin-Dark.svg"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/MySQL-Dark.svg"
+    },
+    {
+      "title": "Postgres",
+      "imageSrc": "skills/PostgreSQL-Dark.svg"
+    },
+    {
+      "title": "Postman",
+      "imageSrc": "skills/Postman.svg"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/Python-Dark.svg"
     }
+
   ]
